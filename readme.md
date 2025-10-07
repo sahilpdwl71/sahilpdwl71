@@ -3,6 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sahil%20Padwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourhandle)](https://linkedin.com/in/yourhandle)
+[![Gmail Badge](https://img.shields.io/badge/-sahilpdwl71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdp20@student.le.ac.uk)](mailto:sahilpdwl71@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-sdp20@student.le.ac.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdp20@student.le.ac.uk)](mailto:sdp20@student.le.ac.uk)
 
 I am **Sahil Padwal** 😃.  
